@@ -44,6 +44,6 @@ function initializeClock(id, endtime) {
 //parse the total number of seconds
 //convert the total number of seconds into the new date
 // var deadline = new Date(Date.parse(new Date()) + 7 * 24 * 60 *60 *1000);
-var my_bday = "December 11 2020 00:00:00";
+var my_bday = "December 11 2022 00:00:00";
 var deadline = my_bday;
 initializeClock("clockdiv", deadline); // grab needed HTML elements from the page, and add the date from which the timer begin its countdown
